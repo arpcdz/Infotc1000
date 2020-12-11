@@ -11,4 +11,6 @@
 1. Responsibility
 1. Puncutality
 
+[Continue on to my code sample](./code_sample.md) 
+or
 [Go back to home page](./README.md)
