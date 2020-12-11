@@ -55,5 +55,5 @@ Graph codes
 
 
 
-
+[Continue on to my hobbies](./hobby.md) or
 [return to home page](./README.md)
