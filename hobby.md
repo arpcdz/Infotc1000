@@ -10,4 +10,5 @@ I also like to visit these sites as a hobby!
 
 Also, look at this cute picture of a [Golden Doodle](https://pixabay.com/photos/goldendoodle-puppy-cute-animal-1895140/)! I love dogs!
 
+[Continue on to my academics](./grades.md) or
 [return to home](./README.md)
